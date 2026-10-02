@@ -90,7 +90,7 @@ erDiagram
 5. **The best and worst stores are both in the South region.** Koramangala is the top store at ₹27,384. T Nagar is the bottom store at ₹13,274, about half as much. The region total hides this. *(Q8, Q15)*
 6. **No supplier crossed ₹50,000** (Q13 returns an empty set). The closest is TechWorld Distributors at ₹46,276. This sample covers only 16 days, so the ₹50K bar was likely meant for a full quarter. At the current pace, TechWorld would cross it within days. *(Q13, Q19)*
 
-Full output of every query is in [`results/query_results.md`](results/query_results.md).
+Full output of every query is in [`results/query_results.md`](https://github.com/imsatya16/urbanmart-sql-retail-analysis/blob/main/query_results.md).
 
 ---
 
